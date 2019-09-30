@@ -6,6 +6,7 @@ def initialize(word)
 end
 
 def match(word_array)
-  word_array.select do |letter|
+  word_array.select do |word|
+    
     
 end
